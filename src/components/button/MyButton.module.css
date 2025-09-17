@@ -1,0 +1,9 @@
+.postButton{
+    height: 20px;
+    border: 2px solid rgb(172, 30, 30);
+    padding: 3px;
+   
+}
+.postButton:hover{
+    border: 2px solid white;
+}
