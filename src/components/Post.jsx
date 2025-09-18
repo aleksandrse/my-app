@@ -1,6 +1,6 @@
 import React from "react";
-import MyButton from "./button/MyButton";
-import classes from './button/MyButton.module.css';
+import MyButton from "./ui/button/MyButton";
+import classes from './ui/button/MyButton.module.css';
 export default function Post ({post}){
     return (
         <section className="post">
